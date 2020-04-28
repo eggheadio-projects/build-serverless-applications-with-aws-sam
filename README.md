@@ -25,3 +25,17 @@ Built with with best practices in mind, SAM allows you to:
 🌟debug and test lambda functions from WITHIN your editor with AWS Toolkit extension
 
 Add AWS SAM to your toolkit with this quick collection!
+
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://www.kevincunningham.co.uk"><img src="https://avatars2.githubusercontent.com/u/8320213?s=460&u=091f53ddb85c741ef9509d21e4dc3ab178288634&v=4" width="100px;" alt=""/><br /><sub><b>Kevin Cunningham</b></sub></a><br /><a href="#content-doingandlearning" title="Content">🖋</a></td>
+ 
+</table>
